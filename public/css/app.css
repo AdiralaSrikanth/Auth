@@ -1,0 +1,19 @@
+.p-25px{
+    padding: 25px;
+}
+footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: #f8f9fa!important;
+    height: 50px;
+}
+img{
+    object-fit: cover;
+    height: 150px !important;
+    width: 200px !important;
+ }
+
+footer p{    
+    line-height: 50px;
+}
